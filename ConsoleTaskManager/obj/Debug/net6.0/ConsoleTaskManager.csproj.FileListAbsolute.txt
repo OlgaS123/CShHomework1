@@ -1,0 +1,15 @@
+D:\Files\STEP\C#\ConsoleTaskManager\ConsoleTaskManager\ConsoleTaskManager\bin\Debug\net6.0\ConsoleTaskManager.exe
+D:\Files\STEP\C#\ConsoleTaskManager\ConsoleTaskManager\ConsoleTaskManager\bin\Debug\net6.0\ConsoleTaskManager.deps.json
+D:\Files\STEP\C#\ConsoleTaskManager\ConsoleTaskManager\ConsoleTaskManager\bin\Debug\net6.0\ConsoleTaskManager.runtimeconfig.json
+D:\Files\STEP\C#\ConsoleTaskManager\ConsoleTaskManager\ConsoleTaskManager\bin\Debug\net6.0\ConsoleTaskManager.dll
+D:\Files\STEP\C#\ConsoleTaskManager\ConsoleTaskManager\ConsoleTaskManager\bin\Debug\net6.0\ref\ConsoleTaskManager.dll
+D:\Files\STEP\C#\ConsoleTaskManager\ConsoleTaskManager\ConsoleTaskManager\bin\Debug\net6.0\ConsoleTaskManager.pdb
+D:\Files\STEP\C#\ConsoleTaskManager\ConsoleTaskManager\ConsoleTaskManager\obj\Debug\net6.0\ConsoleTaskManager.csproj.AssemblyReference.cache
+D:\Files\STEP\C#\ConsoleTaskManager\ConsoleTaskManager\ConsoleTaskManager\obj\Debug\net6.0\ConsoleTaskManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Files\STEP\C#\ConsoleTaskManager\ConsoleTaskManager\ConsoleTaskManager\obj\Debug\net6.0\ConsoleTaskManager.AssemblyInfoInputs.cache
+D:\Files\STEP\C#\ConsoleTaskManager\ConsoleTaskManager\ConsoleTaskManager\obj\Debug\net6.0\ConsoleTaskManager.AssemblyInfo.cs
+D:\Files\STEP\C#\ConsoleTaskManager\ConsoleTaskManager\ConsoleTaskManager\obj\Debug\net6.0\ConsoleTaskManager.csproj.CoreCompileInputs.cache
+D:\Files\STEP\C#\ConsoleTaskManager\ConsoleTaskManager\ConsoleTaskManager\obj\Debug\net6.0\ConsoleTaskManager.dll
+D:\Files\STEP\C#\ConsoleTaskManager\ConsoleTaskManager\ConsoleTaskManager\obj\Debug\net6.0\ref\ConsoleTaskManager.dll
+D:\Files\STEP\C#\ConsoleTaskManager\ConsoleTaskManager\ConsoleTaskManager\obj\Debug\net6.0\ConsoleTaskManager.pdb
+D:\Files\STEP\C#\ConsoleTaskManager\ConsoleTaskManager\ConsoleTaskManager\obj\Debug\net6.0\ConsoleTaskManager.genruntimeconfig.cache
